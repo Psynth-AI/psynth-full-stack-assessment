@@ -535,10 +535,12 @@ Your repository must contain:
 
 ## Required GitHub Sharing
 
-You MUST share your repository with the GitHub user:
+You MUST share your repository with these GitHub users:
 
 ```text
 sbpsynth
+alicioalves
+tomymaritano
 ```
 
 This requirement is mandatory.
